@@ -1,6 +1,6 @@
 # 目录结构
 
-- [design 设计 ](./design/READ.ME)
+- [design 设计 ](./design/README.md)
 
 - [programming 编程](./programming/.README.md)
 
